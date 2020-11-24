@@ -1,6 +1,8 @@
 # flutter_poetry_text
 
-可以垂直展示的文本组件。example：
+可以垂直展示的文本组件。
+
+example：
 
 ```dart
 PoetryText(
