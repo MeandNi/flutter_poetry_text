@@ -2,7 +2,7 @@
 
 可以垂直展示的文本组件。
 
-example：
+use example：
 
 ```dart
 PoetryText(
