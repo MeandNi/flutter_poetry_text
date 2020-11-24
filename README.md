@@ -1,0 +1,5 @@
+# flutter_poetry_text
+
+可以垂直展示的文本组件。example：
+
+<img src="https://cdn.jsdelivr.net/gh/meandni/blogimg@main/img/2020-11-24-Simulator%20Screen%20Shot%20-%20iPhone%2012%20Pro%20Max%20-%202020-11-24%20at%2011.22.43.png" style="zoom: 33%;" />
