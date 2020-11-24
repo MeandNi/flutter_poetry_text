@@ -2,8 +2,6 @@
 
 可以垂直展示的文本组件。
 
-源码解读：[书后拓展：Flutter 中一行文字到屏幕上，渲染全过程！](https://mp.weixin.qq.com/s/nUvFqWIKJKKrifaInjQ9yQ)
-
 use example：
 
 ```dart
